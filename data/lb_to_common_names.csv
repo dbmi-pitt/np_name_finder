@@ -1,0 +1,959 @@
+latin_binomial,common_name,latin_binomial_clean,common_name_clean
+Abies alba,European silver fir,ABIES ALBA,EUROPEAN SILVER FIR
+Abies alba,Silver fir,ABIES ALBA,SILVER FIR
+Acanthus mollis,Bear's breeches,ACANTHUS MOLLIS,BEARS BREECHES
+Acer floridanum,Sugarmaple,ACER FLORIDANUM,SUGARMAPLE
+Acer rubrum,Red maple,ACER RUBRUM,RED MAPLE
+Acer rubrum,Rotahorn,ACER RUBRUM,ROTAHORN
+Achillea millefolium,Common yarrow,ACHILLEA MILLEFOLIUM,COMMON YARROW
+Achillea millefolium,Milfoil,ACHILLEA MILLEFOLIUM,MILFOIL
+Achillea millefolium,Yarrow,ACHILLEA MILLEFOLIUM,YARROW
+Acorus calamus,Calamus,ACORUS CALAMUS,CALAMUS
+Acorus calamus,Flagroot,ACORUS CALAMUS,FLAGROOT
+Acorus calamus,Myrtle-flag,ACORUS CALAMUS,MYRTLEFLAG
+Acorus calamus,Sweet calamus,ACORUS CALAMUS,SWEET CALAMUS
+Acorus calamus,Sweet-flag,ACORUS CALAMUS,SWEETFLAG
+Acorus calamus,Sweetroot,ACORUS CALAMUS,SWEETROOT
+Actaea racemosa,Black bugbane,ACTAEA RACEMOSA,BLACK BUGBANE
+Actaea racemosa,Black cohosh,ACTAEA RACEMOSA,BLACK COHOSH
+Actaea racemosa,Black snakeroot,ACTAEA RACEMOSA,BLACK SNAKEROOT
+Adiantum capillus,Common maidenhair,ADIANTUM CAPILLUS,COMMON MAIDENHAIR
+Adiantum capillus,Maidenhair fern,ADIANTUM CAPILLUS,MAIDENHAIR FERN
+Aesculus hippocastanum,Common horse chestnut,AESCULUS HIPPOCASTANUM,COMMON HORSE CHESTNUT
+Aesculus hippocastanum,Horse-chestnut,AESCULUS HIPPOCASTANUM,HORSECHESTNUT
+Aframomum melegueta,Guinea-pepper,AFRAMOMUM MELEGUETA,GUINEAPEPPER
+Agathosma betulina,Buchu,AGATHOSMA BETULINA,BUCHU
+Agathosma betulina,Honey buchu,AGATHOSMA BETULINA,HONEY BUCHU
+Agathosma betulina,Mountain buchu,AGATHOSMA BETULINA,MOUNTAIN BUCHU
+Agrimonia eupatoria,Agrimony,AGRIMONIA EUPATORIA,AGRIMONY
+Agrimonia eupatoria,Da hua long ya cao,AGRIMONIA EUPATORIA,DA HUA LONG YA CAO
+Albizia julibrissin,Happiness Tree,ALBIZIA JULIBRISSIN,HAPPINESS TREE
+Albizia julibrissin,He huan,ALBIZIA JULIBRISSIN,HE HUAN
+Albizia julibrissin,Mimosa,ALBIZIA JULIBRISSIN,MIMOSA
+Albizia julibrissin,Silktree,ALBIZIA JULIBRISSIN,SILKTREE
+Albizia julibrissin,Silktree albizia,ALBIZIA JULIBRISSIN,SILKTREE ALBIZIA
+Alchemilla xanthochlora,Lady's-mantle,ALCHEMILLA XANTHOCHLORA,LADYSMANTLE
+Allium cepa,Onion,ALLIUM CEPA,ONION
+Allium cepa,Shallot,ALLIUM CEPA,SHALLOT
+Aloe vera,Aloe,ALOE VERA,ALOE
+Aloe vera,Aloe vera,ALOE VERA,ALOE VERA
+Aloe vera,Barbados aloe,ALOE VERA,BARBADOS ALOE
+Aloe vera,Curaçao aloe,ALOE VERA,CURAAO ALOE
+Aloe vera,True aloe,ALOE VERA,TRUE ALOE
+Aloe vera,West Indian aloe,ALOE VERA,WEST INDIAN ALOE
+Alpinia officinarum,Chinese-ginger,ALPINIA OFFICINARUM,CHINESEGINGER
+Alpinia officinarum,Lesser galanga,ALPINIA OFFICINARUM,LESSER GALANGA
+Alpinia officinarum,Lesser galangal,ALPINIA OFFICINARUM,LESSER GALANGAL
+Amaranthus spinosus,Prickly Amaranth,AMARANTHUS SPINOSUS,PRICKLY AMARANTH
+Amaranthus spinosus,Spiny Amaranth,AMARANTHUS SPINOSUS,SPINY AMARANTH
+Amomum villosum,Sharen,AMOMUM VILLOSUM,SHAREN
+Amomum villosum,Sha ren,AMOMUM VILLOSUM,SHA REN
+Amomum villosum,Villous amomum,AMOMUM VILLOSUM,VILLOUS AMOMUM
+Anethum graveolens,Dill,ANETHUM GRAVEOLENS,DILL
+Anethum graveolens,Garden dill,ANETHUM GRAVEOLENS,GARDEN DILL
+Anethum graveolens,Shi luo,ANETHUM GRAVEOLENS,SHI LUO
+Angelica sinensis,Chinese Angelica,ANGELICA SINENSIS,CHINESE ANGELICA
+Angelica sinensis,Dang quai,ANGELICA SINENSIS,DANG QUAI
+Angelica sinensis,Dang qui,ANGELICA SINENSIS,DANG QUI
+Angelica sinensis,Dong gui,ANGELICA SINENSIS,DONG GUI
+Angelica sinensis,Dong quai,ANGELICA SINENSIS,DONG QUAI
+Angelica sinensis,Tang-kuei,ANGELICA SINENSIS,TANGKUEI
+Apium graveolens,Celery,APIUM GRAVEOLENS,CELERY
+Aralia racemosa,American spikenard,ARALIA RACEMOSA,AMERICAN SPIKENARD
+Aralia spinosa,Cong mu,ARALIA SPINOSA,CONG MU
+Aralia spinosa,Japanese angelica-tree,ARALIA SPINOSA,JAPANESE ANGELICATREE
+Aralia spinosa,Japanese aralia,ARALIA SPINOSA,JAPANESE ARALIA
+Arctium lappa,Burdock,ARCTIUM LAPPA,BURDOCK
+Arctium lappa,Burr seed,ARCTIUM LAPPA,BURR SEED
+Arctium lappa,Cocklebur,ARCTIUM LAPPA,COCKLEBUR
+Arctium lappa,Edible burdock,ARCTIUM LAPPA,EDIBLE BURDOCK
+Arctium lappa,Gobo,ARCTIUM LAPPA,GOBO
+Arctium lappa,Goboshi,ARCTIUM LAPPA,GOBOSHI
+Arctium lappa,Great burdock,ARCTIUM LAPPA,GREAT BURDOCK
+Arctium lappa,Great burdocks,ARCTIUM LAPPA,GREAT BURDOCKS
+Arctium lappa,Greater burdock,ARCTIUM LAPPA,GREATER BURDOCK
+Arctium lappa,Hardock,ARCTIUM LAPPA,HARDOCK
+Arctium lappa,Harebur,ARCTIUM LAPPA,HAREBUR
+Arctium lappa,Lappa,ARCTIUM LAPPA,LAPPA
+Arctium lappa,Niu bang zi,ARCTIUM LAPPA,NIU BANG ZI
+Arctostaphylos uva,Bearberry,ARCTOSTAPHYLOS UVA,BEARBERRY
+Arctostaphylos uva,Kinnikinnick,ARCTOSTAPHYLOS UVA,KINNIKINNICK
+Arctostaphylos uva,Uva ursi,ARCTOSTAPHYLOS UVA,UVA URSI
+Ardisia crenata,Coralberry,ARDISIA CRENATA,CORALBERRY
+Ardisia crenata,Coralberry tree,ARDISIA CRENATA,CORALBERRY TREE
+Ardisia crenata,Coral bush,ARDISIA CRENATA,CORAL BUSH
+Ardisia crenata,Hen's-eyes,ARDISIA CRENATA,HENSEYES
+Ardisia crenata,Koraalbessieboom,ARDISIA CRENATA,KORAALBESSIEBOOM
+Ardisia crenata,Spiceberry,ARDISIA CRENATA,SPICEBERRY
+Ardisia crenata,Zhu sha gen,ARDISIA CRENATA,ZHU SHA GEN
+Areca catechu,Areca palm,ARECA CATECHU,ARECA PALM
+Areca catechu,Bing lang,ARECA CATECHU,BING LANG
+Aristotelia chilensis,Maqui,ARISTOTELIA CHILENSIS,MAQUI
+Artemisia absinthium,Absinthe,ARTEMISIA ABSINTHIUM,ABSINTHE
+Artemisia absinthium,Absinthe wormwood,ARTEMISIA ABSINTHIUM,ABSINTHE WORMWOOD
+Artemisia absinthium,Absinthium,ARTEMISIA ABSINTHIUM,ABSINTHIUM
+Artemisia absinthium,Wormwood,ARTEMISIA ABSINTHIUM,WORMWOOD
+Artemisia annua,Huang hua hao,ARTEMISIA ANNUA,HUANG HUA HAO
+Artemisia annua,Sweet Annie,ARTEMISIA ANNUA,SWEET ANNIE
+Artemisia annua,Sweet wormwood,ARTEMISIA ANNUA,SWEET WORMWOOD
+Artocarpus altilis,Breadfruit,ARTOCARPUS ALTILIS,BREADFRUIT
+Asparagus racemosus,Shatamuli,ASPARAGUS RACEMOSUS,SHATAMULI
+Asparagus racemosus,Shatavari,ASPARAGUS RACEMOSUS,SHATAVARI
+Atractylodes lancea,Maocangzhu,ATRACTYLODES LANCEA,MAOCANGZHU
+Atractylodes macrocephala,Bai zhu,ATRACTYLODES MACROCEPHALA,BAI ZHU
+Atractylodes macrocephala,Bai zhu atractylodes,ATRACTYLODES MACROCEPHALA,BAI ZHU ATRACTYLODES
+Atractylodes macrocephala,Largehead Atractylodes,ATRACTYLODES MACROCEPHALA,LARGEHEAD ATRACTYLODES
+Atractylodes macrocephala,White Atractylodes,ATRACTYLODES MACROCEPHALA,WHITE ATRACTYLODES
+Azadirachta indica,Indian-lilac,AZADIRACHTA INDICA,INDIANLILAC
+Azadirachta indica,Margosa,AZADIRACHTA INDICA,MARGOSA
+Azadirachta indica,Neem,AZADIRACHTA INDICA,NEEM
+Azadirachta indica,Nimtree,AZADIRACHTA INDICA,NIMTREE
+Bacopa monnieri,Bacopa,BACOPA MONNIERI,BACOPA
+Bacopa monnieri,Moneywort,BACOPA MONNIERI,MONEYWORT
+Bacopa monnieri,Water hyssop,BACOPA MONNIERI,WATER HYSSOP
+Ballota nigra,Ballota,BALLOTA NIGRA,BALLOTA
+Ballota nigra,Black hempnettle,BALLOTA NIGRA,BLACK HEMPNETTLE
+Ballota nigra,Black horehound,BALLOTA NIGRA,BLACK HOREHOUND
+Ballota nigra,Black Stinking Horehound,BALLOTA NIGRA,BLACK STINKING HOREHOUND
+Ballota nigra,Marrubium Nigrum,BALLOTA NIGRA,MARRUBIUM NIGRUM
+Berberis aquifolium,Blue barberry,BERBERIS AQUIFOLIUM,BLUE BARBERRY
+Berberis aquifolium,Holly barberry,BERBERIS AQUIFOLIUM,HOLLY BARBERRY
+Berberis aquifolium,Holly mahonia,BERBERIS AQUIFOLIUM,HOLLY MAHONIA
+Berberis aquifolium,Mahonia,BERBERIS AQUIFOLIUM,MAHONIA
+Berberis aquifolium,Mountain grape,BERBERIS AQUIFOLIUM,MOUNTAIN GRAPE
+Berberis aquifolium,Mountain-grape,BERBERIS AQUIFOLIUM,MOUNTAINGRAPE
+Berberis aquifolium,Oregon grape,BERBERIS AQUIFOLIUM,OREGON GRAPE
+Berberis aquifolium,Oregon-grape,BERBERIS AQUIFOLIUM,OREGONGRAPE
+Berberis aristata,Indian barberry,BERBERIS ARISTATA,INDIAN BARBERRY
+Berberis aristata,Tree-turmeric,BERBERIS ARISTATA,TREETURMERIC
+Berberis lycium,Berberislycium,BERBERIS LYCIUM,BERBERISLYCIUM
+Berberis vulgaris,Common barberry,BERBERIS VULGARIS,COMMON BARBERRY
+Berberis vulgaris,European barberry,BERBERIS VULGARIS,EUROPEAN BARBERRY
+Berberis vulgaris,Jaundice-berry,BERBERIS VULGARIS,JAUNDICEBERRY
+Berberis vulgaris,piprage,BERBERIS VULGARIS,PIPRAGE
+Beta vulgaris,Beet,BETA VULGARIS,BEET
+Beta vulgaris,Field beet,BETA VULGARIS,FIELD BEET
+Beta vulgaris,Fodder beet,BETA VULGARIS,FODDER BEET
+Beta vulgaris,Foliage beet,BETA VULGARIS,FOLIAGE BEET
+Beta vulgaris,Garden beet,BETA VULGARIS,GARDEN BEET
+Beta vulgaris,Mangel,BETA VULGARIS,MANGEL
+Beta vulgaris,Mangel-wurzel,BETA VULGARIS,MANGELWURZEL
+Beta vulgaris,Mangold,BETA VULGARIS,MANGOLD
+Beta vulgaris,Red beet,BETA VULGARIS,RED BEET
+Beta vulgaris,Sicilian broad-rib beet,BETA VULGARIS,SICILIAN BROADRIB BEET
+Beta vulgaris,Spinach beet,BETA VULGARIS,SPINACH BEET
+Beta vulgaris,Spinach chard,BETA VULGARIS,SPINACH CHARD
+Beta vulgaris,Sugar beet,BETA VULGARIS,SUGAR BEET
+Beta vulgaris,Swiss chard,BETA VULGARIS,SWISS CHARD
+Beta vulgaris,Tian cai,BETA VULGARIS,TIAN CAI
+Beta vulgaris,Yellow beet,BETA VULGARIS,YELLOW BEET
+Bidens pilosa,Hairy beggar-ticks,BIDENS PILOSA,HAIRY BEGGARTICKS
+Bidens pilosa,Spanish-needles,BIDENS PILOSA,SPANISHNEEDLES
+Bixa orellana,Annatto,BIXA ORELLANA,ANNATTO
+Bixa orellana,Arnatto,BIXA ORELLANA,ARNATTO
+Bixa orellana,Lipsticktree,BIXA ORELLANA,LIPSTICKTREE
+Bixa orellana,Rocou,BIXA ORELLANA,ROCOU
+Borago officinalis,Beebread,BORAGO OFFICINALIS,BEEBREAD
+Borago officinalis,Beeplant,BORAGO OFFICINALIS,BEEPLANT
+Borago officinalis,Borage,BORAGO OFFICINALIS,BORAGE
+Borago officinalis,Star-flower,BORAGO OFFICINALIS,STARFLOWER
+Borago officinalis,Talewort,BORAGO OFFICINALIS,TALEWORT
+Brassica juncea,Indian mustard,BRASSICA JUNCEA,INDIAN MUSTARD
+Brassica juncea,Oriental mustard,BRASSICA JUNCEA,ORIENTAL MUSTARD
+Brassica oleracea,Colza,BRASSICA OLERACEA,COLZA
+Brassica oleracea,Rape,BRASSICA OLERACEA,RAPE
+Brassica oleracea,Rape seed,BRASSICA OLERACEA,RAPE SEED
+Brassica oleracea,Seed- rape,BRASSICA OLERACEA,SEED RAPE
+Brassica rapa,Rapini,BRASSICA RAPA,RAPINI
+Brassica rapa,Seven-top turnip,BRASSICA RAPA,SEVENTOP TURNIP
+Brassica rapa,Turnip,BRASSICA RAPA,TURNIP
+Brassica rapa,Tyfon,BRASSICA RAPA,TYFON
+Bupleurum chinense,Bei chai hu,BUPLEURUM CHINENSE,BEI CHAI HU
+Bupleurum chinense,Bupleurum,BUPLEURUM CHINENSE,BUPLEURUM
+Bupleurum chinense,Chai hu,BUPLEURUM CHINENSE,CHAI HU
+Bupleurum chinense,Chinese thoroughwax,BUPLEURUM CHINENSE,CHINESE THOROUGHWAX
+Bupleurum chinense,Hare's-ear,BUPLEURUM CHINENSE,HARESEAR
+Calluna vulgaris,Common heather,CALLUNA VULGARIS,COMMON HEATHER
+Calluna vulgaris,Heather,CALLUNA VULGARIS,HEATHER
+Calluna vulgaris,Ling,CALLUNA VULGARIS,LING
+Calluna vulgaris,Red-heath,CALLUNA VULGARIS,REDHEATH
+Calluna vulgaris,Scotch heather,CALLUNA VULGARIS,SCOTCH HEATHER
+Calluna vulgaris,Scots heather,CALLUNA VULGARIS,SCOTS HEATHER
+Camellia sinensis,Black tea,CAMELLIA SINENSIS,BLACK TEA
+Camellia sinensis,Green tea,CAMELLIA SINENSIS,GREEN TEA
+Camellia sinensis,Oolong tea,CAMELLIA SINENSIS,OOLONG TEA
+Camellia sinensis,Tea,CAMELLIA SINENSIS,TEA
+Camellia sinensis,White Tea,CAMELLIA SINENSIS,WHITE TEA
+Cannabis sativa,Da ma,CANNABIS SATIVA,DA MA
+Cannabis sativa,Hemp,CANNABIS SATIVA,HEMP
+Capparis spinosa,Caper,CAPPARIS SPINOSA,CAPER
+Capparis spinosa,Caperbush,CAPPARIS SPINOSA,CAPERBUSH
+Capsella bursa,Shepherd's-purse,CAPSELLA BURSA,SHEPHERDSPURSE
+Castanea dentata,Americanchestnut,CASTANEA DENTATA,AMERICANCHESTNUT
+Castanea sativa,European chestnut,CASTANEA SATIVA,EUROPEAN CHESTNUT
+Castanea sativa,Sweet chestnut,CASTANEA SATIVA,SWEET CHESTNUT
+Caulophyllum thalictroides,Blue cohosh,CAULOPHYLLUM THALICTROIDES,BLUE COHOSH
+Caulophyllum thalictroides,Caulophyllum,CAULOPHYLLUM THALICTROIDES,CAULOPHYLLUM
+Caulophyllum thalictroides,Papooseroott,CAULOPHYLLUM THALICTROIDES,PAPOOSEROOTT
+Caulophyllum thalictroides,Squawroot,CAULOPHYLLUM THALICTROIDES,SQUAWROOT
+Centaurium erythraea,Centaury,CENTAURIUM ERYTHRAEA,CENTAURY
+Centaurium erythraea,Common centaury,CENTAURIUM ERYTHRAEA,COMMON CENTAURY
+Centaurium erythraea,European centaury,CENTAURIUM ERYTHRAEA,EUROPEAN CENTAURY
+Centaurium erythraea,Small centaury,CENTAURIUM ERYTHRAEA,SMALL CENTAURY
+Ceratonia siliqua,Bread- St John's,CERATONIA SILIQUA,BREAD ST JOHNS
+Ceratonia siliqua,Carob,CERATONIA SILIQUA,CAROB
+Ceratonia siliqua,Ceratonia,CERATONIA SILIQUA,CERATONIA
+Ceratonia siliqua,Locust-bean,CERATONIA SILIQUA,LOCUSTBEAN
+Ceratonia siliqua,St. John's-bread,CERATONIA SILIQUA,ST JOHNSBREAD
+Ceratonia siliqua,St John's bread,CERATONIA SILIQUA,ST JOHNS BREAD
+Chelidonium majus,Celandine,CHELIDONIUM MAJUS,CELANDINE
+Chelidonium majus,Great celandine,CHELIDONIUM MAJUS,GREAT CELANDINE
+Chelidonium majus,Greater celandine,CHELIDONIUM MAJUS,GREATER CELANDINE
+Chelidonium majus,Nipplewort,CHELIDONIUM MAJUS,NIPPLEWORT
+Chelidonium majus,Swallowwort,CHELIDONIUM MAJUS,SWALLOWWORT
+Chimaphila umbellata,Bitter wintergreen,CHIMAPHILA UMBELLATA,BITTER WINTERGREEN
+Chimaphila umbellata,Ground ivy,CHIMAPHILA UMBELLATA,GROUND IVY
+Chimaphila umbellata,Pipsissewa,CHIMAPHILA UMBELLATA,PIPSISSEWA
+Chimaphila umbellata,Pipsissiwa,CHIMAPHILA UMBELLATA,PIPSISSIWA
+Chimaphila umbellata,Prince's-pine,CHIMAPHILA UMBELLATA,PRINCESPINE
+Chionanthus virginicus,Fringetree,CHIONANTHUS VIRGINICUS,FRINGETREE
+Chionanthus virginicus,Old-man's-beard,CHIONANTHUS VIRGINICUS,OLDMANSBEARD
+Chionanthus virginicus,Poison-ash,CHIONANTHUS VIRGINICUS,POISONASH
+Cichorium intybus,Belgium endive,CICHORIUM INTYBUS,BELGIUM ENDIVE
+Cichorium intybus,Chicory,CICHORIUM INTYBUS,CHICORY
+Cichorium intybus,Radicchio,CICHORIUM INTYBUS,RADICCHIO
+Cinnamomum burmanni,Bataviacinnamon,CINNAMOMUM BURMANNI,BATAVIACINNAMON
+Cinnamomum camphora,Camphor,CINNAMOMUM CAMPHORA,CAMPHOR
+Cinnamomum camphora,Camphor laurel,CINNAMOMUM CAMPHORA,CAMPHOR LAUREL
+Cinnamomum camphora,Camphortree,CINNAMOMUM CAMPHORA,CAMPHORTREE
+Cinnamomum camphora,Camphor tree,CINNAMOMUM CAMPHORA,CAMPHOR TREE
+Cinnamomum camphora,Japanese camphor,CINNAMOMUM CAMPHORA,JAPANESE CAMPHOR
+Cinnamomum camphora,Kuso-no-ki,CINNAMOMUM CAMPHORA,KUSONOKI
+Cinnamomum cassia,Cassia,CINNAMOMUM CASSIA,CASSIA
+Cinnamomum cassia,Cassia cinnamon,CINNAMOMUM CASSIA,CASSIA CINNAMON
+Cinnamomum cassia,Chinese cinnamon,CINNAMOMUM CASSIA,CHINESE CINNAMON
+Cinnamomum cassia,Chinese cinnamon tree,CINNAMOMUM CASSIA,CHINESE CINNAMON TREE
+Cinnamomum cassia,Rou gui,CINNAMOMUM CASSIA,ROU GUI
+Cinnamomum verum,Ceylon cinnamon,CINNAMOMUM VERUM,CEYLON CINNAMON
+Cinnamomum verum,Cinnamon,CINNAMOMUM VERUM,CINNAMON
+Cinnamomum verum,True cinnamon,CINNAMOMUM VERUM,TRUE CINNAMON
+Cinnamomum verum,Tvak,CINNAMOMUM VERUM,TVAK
+Cistus creticus,Hairyrockrose,CISTUS CRETICUS,HAIRYROCKROSE
+Citrullus lanatus,Watermelon,CITRULLUS LANATUS,WATERMELON
+Citrus aurantium,Bitter orange,CITRUS AURANTIUM,BITTER ORANGE
+Citrus aurantium,Seville orange,CITRUS AURANTIUM,SEVILLE ORANGE
+Citrus aurantium,Suan cheng,CITRUS AURANTIUM,SUAN CHENG
+Citrus reticulata,Ju,CITRUS RETICULATA,JU
+Citrus reticulata,Mandarin orange,CITRUS RETICULATA,MANDARIN ORANGE
+Citrus reticulata,Tangerine,CITRUS RETICULATA,TANGERINE
+Citrus sinensis,Blood orange,CITRUS SINENSIS,BLOOD ORANGE
+Citrus sinensis,Navel orange,CITRUS SINENSIS,NAVEL ORANGE
+Citrus sinensis,Red orange,CITRUS SINENSIS,RED ORANGE
+Citrus sinensis,Sweet orange,CITRUS SINENSIS,SWEET ORANGE
+Citrus sinensis,Tian cheng,CITRUS SINENSIS,TIAN CHENG
+Citrus sinensis,Valencia orange,CITRUS SINENSIS,VALENCIA ORANGE
+Codonopsis pilosula,Bellflower,CODONOPSIS PILOSULA,BELLFLOWER
+Codonopsis pilosula,Dang shen,CODONOPSIS PILOSULA,DANG SHEN
+Cola nitida,Bitter cola,COLA NITIDA,BITTER COLA
+Cola nitida,Gbanja kola,COLA NITIDA,GBANJA KOLA
+Cola nitida,Kola,COLA NITIDA,KOLA
+Commiphora mukul,Guggul,COMMIPHORA MUKUL,GUGGUL
+Commiphora mukul,Gugul,COMMIPHORA MUKUL,GUGUL
+Commiphora mukul,Indian bdellium-tree,COMMIPHORA MUKUL,INDIAN BDELLIUMTREE
+Conyza canadensis,Butterweed,CONYZA CANADENSIS,BUTTERWEED
+Conyza canadensis,Canadian horseweed,CONYZA CANADENSIS,CANADIAN HORSEWEED
+Coptis chinensis,Chinese goldthread,COPTIS CHINENSIS,CHINESE GOLDTHREAD
+Coptis chinensis,Golden thread,COPTIS CHINENSIS,GOLDEN THREAD
+Coptis chinensis,Huanglian,COPTIS CHINENSIS,HUANGLIAN
+Coptis chinensis,Huang lian,COPTIS CHINENSIS,HUANG LIAN
+Cordyceps militaris,Cordycepsmilitaris,CORDYCEPS MILITARIS,CORDYCEPSMILITARIS
+Coriandrum sativum,Chinese parsley,CORIANDRUM SATIVUM,CHINESE PARSLEY
+Coriandrum sativum,Chinese-parsley,CORIANDRUM SATIVUM,CHINESEPARSLEY
+Coriandrum sativum,Cilantro,CORIANDRUM SATIVUM,CILANTRO
+Coriandrum sativum,Coriander,CORIANDRUM SATIVUM,CORIANDER
+Coriandrum sativum,Parsley- Chinese,CORIANDRUM SATIVUM,PARSLEY CHINESE
+Cornus officinalis,Asiatic cornelian cherry,CORNUS OFFICINALIS,ASIATIC CORNELIAN CHERRY
+Cornus officinalis,Asiatic dogwood,CORNUS OFFICINALIS,ASIATIC DOGWOOD
+Cornus officinalis,Shan zhu yu,CORNUS OFFICINALIS,SHAN ZHU YU
+Corylus avellana,Cobnut,CORYLUS AVELLANA,COBNUT
+Corylus avellana,European filbert,CORYLUS AVELLANA,EUROPEAN FILBERT
+Corylus avellana,European hazel,CORYLUS AVELLANA,EUROPEAN HAZEL
+Corylus avellana,Giant filbert,CORYLUS AVELLANA,GIANT FILBERT
+Corylus avellana,Hazel,CORYLUS AVELLANA,HAZEL
+Corylus avellana,Hazelnut tree,CORYLUS AVELLANA,HAZELNUT TREE
+Crataegus laevigata,English hawthorn,CRATAEGUS LAEVIGATA,ENGLISH HAWTHORN
+Crataegus laevigata,Hawthorn,CRATAEGUS LAEVIGATA,HAWTHORN
+Crataegus laevigata,Maytree,CRATAEGUS LAEVIGATA,MAYTREE
+Crataegus laevigata,Two-style hawthorn,CRATAEGUS LAEVIGATA,TWOSTYLE HAWTHORN
+Crataegus laevigata,Whitethorn,CRATAEGUS LAEVIGATA,WHITETHORN
+Crataegus laevigata,Woodland hawthorn,CRATAEGUS LAEVIGATA,WOODLAND HAWTHORN
+Crataegus monogyna,Hawthorn,CRATAEGUS MONOGYNA,HAWTHORN
+Crataegus monogyna,Oneseed hawthorn,CRATAEGUS MONOGYNA,ONESEED HAWTHORN
+Crataegus monogyna,One-style hawthorn,CRATAEGUS MONOGYNA,ONESTYLE HAWTHORN
+Crithmum maritimum,Rock samphire,CRITHMUM MARITIMUM,ROCK SAMPHIRE
+Crithmum maritimum,Sea-fennel,CRITHMUM MARITIMUM,SEAFENNEL
+Cuminum cyminum,Cumin,CUMINUM CYMINUM,CUMIN
+Curcuma longa,Common turmeric,CURCUMA LONGA,COMMON TURMERIC
+Curcuma longa,Curcuma,CURCUMA LONGA,CURCUMA
+Curcuma longa,Indian-saffron,CURCUMA LONGA,INDIANSAFFRON
+Curcuma longa,Jianghuang,CURCUMA LONGA,JIANGHUANG
+Curcuma longa,Turmeric,CURCUMA LONGA,TURMERIC
+Curcuma longa,Yellow ginger,CURCUMA LONGA,YELLOW GINGER
+Curcuma zedoaria,Karcura,CURCUMA ZEDOARIA,KARCURA
+Cyperus rotundus,Coco-grass,CYPERUS ROTUNDUS,COCOGRASS
+Cyperus rotundus,Nutgrass,CYPERUS ROTUNDUS,NUTGRASS
+Cyperus rotundus,Nut-grass,CYPERUS ROTUNDUS,NUTGRASS
+Cyperus rotundus,Nutgrass alingale,CYPERUS ROTUNDUS,NUTGRASS ALINGALE
+Cyperus rotundus,Nut sedge,CYPERUS ROTUNDUS,NUT SEDGE
+Cyperus rotundus,Purple nut sedge,CYPERUS ROTUNDUS,PURPLE NUT SEDGE
+Cyperus rotundus,Red nut sedge,CYPERUS ROTUNDUS,RED NUT SEDGE
+Cyperus rotundus,Suo cao,CYPERUS ROTUNDUS,SUO CAO
+Cyperus rotundus,Xiangfu,CYPERUS ROTUNDUS,XIANGFU
+Cyperus rotundus,Xiang fu zi,CYPERUS ROTUNDUS,XIANG FU ZI
+Daucus carota,Carrot,DAUCUS CAROTA,CARROT
+Dioscorea villosa,Chinaroot,DIOSCOREA VILLOSA,CHINAROOT
+Dioscorea villosa,Wild yam,DIOSCOREA VILLOSA,WILD YAM
+Diospyros virginiana,Americanpersimmon,DIOSPYROS VIRGINIANA,AMERICANPERSIMMON
+Echinacea angustifolia,Black sampson,ECHINACEA ANGUSTIFOLIA,BLACK SAMPSON
+Echinacea angustifolia,Black-sampson echinacea,ECHINACEA ANGUSTIFOLIA,BLACKSAMPSON ECHINACEA
+Echinacea angustifolia,Echinacea,ECHINACEA ANGUSTIFOLIA,ECHINACEA
+Echinacea angustifolia,Kansas snakeroot,ECHINACEA ANGUSTIFOLIA,KANSAS SNAKEROOT
+Echinacea angustifolia,Narrow-leaf coneflower,ECHINACEA ANGUSTIFOLIA,NARROWLEAF CONEFLOWER
+Echinacea angustifolia,Narrow-leaf echinacea,ECHINACEA ANGUSTIFOLIA,NARROWLEAF ECHINACEA
+Echinacea angustifolia,Narrow-leaf purple-coneflower,ECHINACEA ANGUSTIFOLIA,NARROWLEAF PURPLECONEFLOWER
+Echinacea purpurea,Eastern purple-coneflower,ECHINACEA PURPUREA,EASTERN PURPLECONEFLOWER
+Echinacea purpurea,Echinacea,ECHINACEA PURPUREA,ECHINACEA
+Echinacea purpurea,Purple-coneflower,ECHINACEA PURPUREA,PURPLECONEFLOWER
+Eleutherococcus senticosus,Ci wu jia,ELEUTHEROCOCCUS SENTICOSUS,CI WU JIA
+Eleutherococcus senticosus,Eleuthero,ELEUTHEROCOCCUS SENTICOSUS,ELEUTHERO
+Eleutherococcus senticosus,Siberian ginseng,ELEUTHEROCOCCUS SENTICOSUS,SIBERIAN GINSENG
+Elymus repens,Couchgrass,ELYMUS REPENS,COUCHGRASS
+Emilia sonchifolia,Cupid's shaving-brush,EMILIA SONCHIFOLIA,CUPIDS SHAVINGBRUSH
+Emilia sonchifolia,Emilia,EMILIA SONCHIFOLIA,EMILIA
+Emilia sonchifolia,Sow thistle,EMILIA SONCHIFOLIA,SOW THISTLE
+Epimedium grandif,Barrenwort,EPIMEDIUM GRANDIF,BARRENWORT
+Epimedium grandif,Japanese epimedium,EPIMEDIUM GRANDIF,JAPANESE EPIMEDIUM
+Epimedium grandif,Yin yang huo,EPIMEDIUM GRANDIF,YIN YANG HUO
+Epimedium grandiflorum,Barrenwort,EPIMEDIUM GRANDIFLORUM,BARRENWORT
+Epimedium grandiflorum,Japanese epimedium,EPIMEDIUM GRANDIFLORUM,JAPANESE EPIMEDIUM
+Epimedium grandiflorum,Yin yang huo,EPIMEDIUM GRANDIFLORUM,YIN YANG HUO
+Equisetum hyemale,Common scouring-rush,EQUISETUM HYEMALE,COMMON SCOURINGRUSH
+Equisetum hyemale,Mu zei,EQUISETUM HYEMALE,MU ZEI
+Eriobotrya japonica,Bibasse,ERIOBOTRYA JAPONICA,BIBASSE
+Eriobotrya japonica,Japanese-medlar,ERIOBOTRYA JAPONICA,JAPANESEMEDLAR
+Eriobotrya japonica,Loquat,ERIOBOTRYA JAPONICA,LOQUAT
+Eriobotrya japonica,Lukwart,ERIOBOTRYA JAPONICA,LUKWART
+Eriobotrya japonica,Nispero,ERIOBOTRYA JAPONICA,NISPERO
+Eriobotrya japonica,Pi ba,ERIOBOTRYA JAPONICA,PI BA
+Eriodictyon californicum,Mountain balm,ERIODICTYON CALIFORNICUM,MOUNTAIN BALM
+Eriodictyon californicum,Yerba-santa,ERIODICTYON CALIFORNICUM,YERBASANTA
+Eruca vesicaria,Arugula,ERUCA VESICARIA,ARUGULA
+Eruca vesicaria,Garden rock,ERUCA VESICARIA,GARDEN ROCK
+Eschscholzia californica,California-poppy,ESCHSCHOLZIA CALIFORNICA,CALIFORNIAPOPPY
+Eupatorium purpureum,Gravelroot,EUPATORIUM PURPUREUM,GRAVELROOT
+Eupatorium purpureum,Green-stem joe-pye-weed,EUPATORIUM PURPUREUM,GREENSTEM JOEPYEWEED
+Eupatorium purpureum,Joe-pye,EUPATORIUM PURPUREUM,JOEPYE
+Eupatorium purpureum,Joe-pye-weed,EUPATORIUM PURPUREUM,JOEPYEWEED
+Eupatorium purpureum,Marsh-milkweed,EUPATORIUM PURPUREUM,MARSHMILKWEED
+Eupatorium purpureum,Queen-of-the-meadow,EUPATORIUM PURPUREUM,QUEENOFTHEMEADOW
+Eupatorium purpureum,Sweet joe-pye-weed,EUPATORIUM PURPUREUM,SWEET JOEPYEWEED
+Euterpe oleracea,Acai,EUTERPE OLERACEA,ACAI
+Euterpe oleracea,Açai,EUTERPE OLERACEA,AAI
+Euterpe oleracea,Assai palm,EUTERPE OLERACEA,ASSAI PALM
+Euterpe oleracea,Cabbage palm,EUTERPE OLERACEA,CABBAGE PALM
+Ferula elaeochytris,Ferulaelaeochytris,FERULA ELAEOCHYTRIS,FERULAELAEOCHYTRIS
+Ficus carica,Fig,FICUS CARICA,FIG
+Ficus carica,Fig tree,FICUS CARICA,FIG TREE
+Ficus carica,Wu hua guo,FICUS CARICA,WU HUA GUO
+Filipendula ulmaria,Dropwort,FILIPENDULA ULMARIA,DROPWORT
+Filipendula ulmaria,Meadowsweet,FILIPENDULA ULMARIA,MEADOWSWEET
+Filipendula ulmaria,Queen-of-the-meadow,FILIPENDULA ULMARIA,QUEENOFTHEMEADOW
+Filipendula ulmaria,Xuan guo wen zi cao,FILIPENDULA ULMARIA,XUAN GUO WEN ZI CAO
+Foeniculum vulgare,Fennel,FOENICULUM VULGARE,FENNEL
+Foeniculum vulgare,Fenouil,FOENICULUM VULGARE,FENOUIL
+Fomes fomentarius,Fomesfomentarius,FOMES FOMENTARIUS,FOMESFOMENTARIUS
+Frangula alnus,Alder buckthorn,FRANGULA ALNUS,ALDER BUCKTHORN
+Frangula alnus,Frangula,FRANGULA ALNUS,FRANGULA
+Frangula alnus,Glossy buckthorn,FRANGULA ALNUS,GLOSSY BUCKTHORN
+Fucus vesiculosus,Black tang,FUCUS VESICULOSUS,BLACK TANG
+Fucus vesiculosus,Bladder fucus,FUCUS VESICULOSUS,BLADDER FUCUS
+Fucus vesiculosus,Kelpware,FUCUS VESICULOSUS,KELPWARE
+Fucus vesiculosus,Seawrack,FUCUS VESICULOSUS,SEAWRACK
+Fumaria officinalis,Common fumitory,FUMARIA OFFICINALIS,COMMON FUMITORY
+Fumaria officinalis,Fumitory,FUMARIA OFFICINALIS,FUMITORY
+Fumaria officinalis,Wax-dolls,FUMARIA OFFICINALIS,WAXDOLLS
+Galega officinalis,French lilac,GALEGA OFFICINALIS,FRENCH LILAC
+Galega officinalis,Galega,GALEGA OFFICINALIS,GALEGA
+Galega officinalis,Goat's-rue,GALEGA OFFICINALIS,GOATSRUE
+Galium aparine,Catchweed bedstraw,GALIUM APARINE,CATCHWEED BEDSTRAW
+Galium aparine,Cleavers,GALIUM APARINE,CLEAVERS
+Galium aparine,Goose-grass,GALIUM APARINE,GOOSEGRASS
+Galium verum,Lady's bedstraw,GALIUM VERUM,LADYS BEDSTRAW
+Galium verum,Yellow bedstraw,GALIUM VERUM,YELLOW BEDSTRAW
+Ganoderma lucidum,Ganoderma,GANODERMA LUCIDUM,GANODERMA
+Ganoderma lucidum,Ling zhi,GANODERMA LUCIDUM,LING ZHI
+Ganoderma lucidum,Reishi,GANODERMA LUCIDUM,REISHI
+Garcinia gummi,Malabartamarind,GARCINIA GUMMI,MALABARTAMARIND
+Gentiana lutea,Bitterwort,GENTIANA LUTEA,BITTERWORT
+Gentiana lutea,Gentian,GENTIANA LUTEA,GENTIAN
+Gentiana lutea,Gentian-root,GENTIANA LUTEA,GENTIANROOT
+Gentiana lutea,Yellow gentian,GENTIANA LUTEA,YELLOW GENTIAN
+Geranium maculatum,Cranesbill,GERANIUM MACULATUM,CRANESBILL
+Geranium maculatum,Spotted geranium,GERANIUM MACULATUM,SPOTTED GERANIUM
+Geranium maculatum,Wild geranium,GERANIUM MACULATUM,WILD GERANIUM
+Ginkgo biloba,Baiguo,GINKGO BILOBA,BAIGUO
+Ginkgo biloba,Ginkgo,GINKGO BILOBA,GINKGO
+Ginkgo biloba,Ginkgo biloba,GINKGO BILOBA,GINKGO BILOBA
+Ginkgo biloba,Icho,GINKGO BILOBA,ICHO
+Ginkgo biloba,Maidenhair-tree,GINKGO BILOBA,MAIDENHAIRTREE
+Glycine max,Black soya bean,GLYCINE MAX,BLACK SOYA BEAN
+Glycine max,Da dou,GLYCINE MAX,DA DOU
+Glycine max,Soy,GLYCINE MAX,SOY
+Glycine max,Soya,GLYCINE MAX,SOYA
+Glycine max,Soyabean,GLYCINE MAX,SOYABEAN
+Glycine max,Soybean,GLYCINE MAX,SOYBEAN
+Glycyrrhiza glabra,Guang guo gan cao,GLYCYRRHIZA GLABRA,GUANG GUO GAN CAO
+Glycyrrhiza glabra,Licorice,GLYCYRRHIZA GLABRA,LICORICE
+Glycyrrhiza glabra,Liquorice,GLYCYRRHIZA GLABRA,LIQUORICE
+Glycyrrhiza inflata,Zhangguogancao,GLYCYRRHIZA INFLATA,ZHANGGUOGANCAO
+Glycyrrhiza uralensis,Chinese licorice,GLYCYRRHIZA URALENSIS,CHINESE LICORICE
+Glycyrrhiza uralensis,Gan cao,GLYCYRRHIZA URALENSIS,GAN CAO
+Gymnema sylvestre,Gymnema,GYMNEMA SYLVESTRE,GYMNEMA
+Gymnema sylvestre,Miracle-fruit,GYMNEMA SYLVESTRE,MIRACLEFRUIT
+Hamamelis virginiana,Hamamelis,HAMAMELIS VIRGINIANA,HAMAMELIS
+Hamamelis virginiana,Spotted alder,HAMAMELIS VIRGINIANA,SPOTTED ALDER
+Hamamelis virginiana,Winter bloom,HAMAMELIS VIRGINIANA,WINTER BLOOM
+Hamamelis virginiana,Witchazel,HAMAMELIS VIRGINIANA,WITCHAZEL
+Hamamelis virginiana,Witch-hazel,HAMAMELIS VIRGINIANA,WITCHHAZEL
+Handroanthus heptaphyllus,Ipe roxo,HANDROANTHUS HEPTAPHYLLUS,IPE ROXO
+Handroanthus heptaphyllus,Lapacho,HANDROANTHUS HEPTAPHYLLUS,LAPACHO
+Handroanthus heptaphyllus,Lapacho negro,HANDROANTHUS HEPTAPHYLLUS,LAPACHO NEGRO
+Handroanthus heptaphyllus,Pau d'Arco,HANDROANTHUS HEPTAPHYLLUS,PAU DARCO
+Harpagophytum procumbens,Devil's-claw,HARPAGOPHYTUM PROCUMBENS,DEVILSCLAW
+Harpagophytum procumbens,Grapple plant,HARPAGOPHYTUM PROCUMBENS,GRAPPLE PLANT
+Harpagophytum procumbens,Wood spider,HARPAGOPHYTUM PROCUMBENS,WOOD SPIDER
+Hedera helix,Engelse hedera,HEDERA HELIX,ENGELSE HEDERA
+Hedera helix,English ivy,HEDERA HELIX,ENGLISH IVY
+Helichrysum arenarium,Everlasting,HELICHRYSUM ARENARIUM,EVERLASTING
+Helichrysum arenarium,Immortelle,HELICHRYSUM ARENARIUM,IMMORTELLE
+Helichrysum arenarium,Sandy everlasting,HELICHRYSUM ARENARIUM,SANDY EVERLASTING
+Helichrysum arenarium,Yellow chasteweed,HELICHRYSUM ARENARIUM,YELLOW CHASTEWEED
+Hordeum vulgare,Da mai,HORDEUM VULGARE,DA MAI
+Hydrastis canadensis,Goldenseal,HYDRASTIS CANADENSIS,GOLDENSEAL
+Hydrastis canadensis,Orangeroot,HYDRASTIS CANADENSIS,ORANGEROOT
+Hydrastis canadensis,Yellow-puccoon,HYDRASTIS CANADENSIS,YELLOWPUCCOON
+Hydrastis canadensis,Yellow root,HYDRASTIS CANADENSIS,YELLOW ROOT
+Hypericum perforatum,Hypericum,HYPERICUM PERFORATUM,HYPERICUM
+Hypericum perforatum,St. John's wort,HYPERICUM PERFORATUM,ST JOHNS WORT
+Hypericum perforatum,St. John's-wort,HYPERICUM PERFORATUM,ST JOHNSWORT
+Hyssopus officinalis,Hyssop,HYSSOPUS OFFICINALIS,HYSSOP
+Ilex paraguariensis,Brazilian tea,ILEX PARAGUARIENSIS,BRAZILIAN TEA
+Ilex paraguariensis,Mate,ILEX PARAGUARIENSIS,MATE
+Ilex paraguariensis,Paraguayan tea,ILEX PARAGUARIENSIS,PARAGUAYAN TEA
+Ilex paraguariensis,Paraguay tea,ILEX PARAGUARIENSIS,PARAGUAY TEA
+Ilex paraguariensis,St Bartholomew's tea,ILEX PARAGUARIENSIS,ST BARTHOLOMEWS TEA
+Ilex paraguariensis,Yerba mate,ILEX PARAGUARIENSIS,YERBA MATE
+Inonotus obliquus,Chaga,INONOTUS OBLIQUUS,CHAGA
+Inula helenium,Elecampane,INULA HELENIUM,ELECAMPANE
+Inula helenium,Tu mu xiang,INULA HELENIUM,TU MU XIANG
+Inula helenium,Velvet-dock,INULA HELENIUM,VELVETDOCK
+Juglans nigra,Blackwalnut,JUGLANS NIGRA,BLACKWALNUT
+Juglans regia,Walnut,JUGLANS REGIA,WALNUT
+Juncus effusus,Common rush,JUNCUS EFFUSUS,COMMON RUSH
+Juncus effusus,Deng xin cao,JUNCUS EFFUSUS,DENG XIN CAO
+Juncus effusus,Soft rush,JUNCUS EFFUSUS,SOFT RUSH
+Juniperus communis,Common juniper,JUNIPERUS COMMUNIS,COMMON JUNIPER
+Juniperus communis,Juniper,JUNIPERUS COMMUNIS,JUNIPER
+Juniperus oxycedrus,Cade juniper,JUNIPERUS OXYCEDRUS,CADE JUNIPER
+Juniperus oxycedrus,Prickly juniper,JUNIPERUS OXYCEDRUS,PRICKLY JUNIPER
+Juniperus oxycedrus,Red-berry juniper,JUNIPERUS OXYCEDRUS,REDBERRY JUNIPER
+Juniperus virginiana,Eastern red-cedar,JUNIPERUS VIRGINIANA,EASTERN REDCEDAR
+Juniperus virginiana,Pencil-cedar,JUNIPERUS VIRGINIANA,PENCILCEDAR
+Juniperus virginiana,Potloodseder,JUNIPERUS VIRGINIANA,POTLOODSEDER
+Juniperus virginiana,Red-cedar,JUNIPERUS VIRGINIANA,REDCEDAR
+Juniperus virginiana,Red juniper,JUNIPERUS VIRGINIANA,RED JUNIPER
+Juniperus virginiana,Rooisede,JUNIPERUS VIRGINIANA,ROOISEDE
+Leonurus cardiaca,Common motherwort,LEONURUS CARDIACA,COMMON MOTHERWORT
+Leonurus cardiaca,Motherwort,LEONURUS CARDIACA,MOTHERWORT
+Lepidium,Du xing cai,LEPIDIUM,DU XING CAI
+Lepidium,Pepperweed,LEPIDIUM,PEPPERWEED
+Lepidium meyenii,Maca,LEPIDIUM MEYENII,MACA
+Lepidium meyenii,Peruvian-ginseng,LEPIDIUM MEYENII,PERUVIANGINSENG
+Levisticum officinale,Lovage,LEVISTICUM OFFICINALE,LOVAGE
+Lilium candidum,Madonna lily,LILIUM CANDIDUM,MADONNA LILY
+Lilium candidum,White lily,LILIUM CANDIDUM,WHITE LILY
+Liquidambar styraciflua,Alligatorwood,LIQUIDAMBAR STYRACIFLUA,ALLIGATORWOOD
+Liquidambar styraciflua,American-storax,LIQUIDAMBAR STYRACIFLUA,AMERICANSTORAX
+Liquidambar styraciflua,Red-gum,LIQUIDAMBAR STYRACIFLUA,REDGUM
+Liquidambar styraciflua,Satin-walnut,LIQUIDAMBAR STYRACIFLUA,SATINWALNUT
+Liquidambar styraciflua,Sweet-gum,LIQUIDAMBAR STYRACIFLUA,SWEETGUM
+Lobaria pulmonaria,Lung lichen,LOBARIA PULMONARIA,LUNG LICHEN
+Lobaria pulmonaria,Lungmoss,LOBARIA PULMONARIA,LUNGMOSS
+Lonicera japonica,Japanese honeysuckle,LONICERA JAPONICA,JAPANESE HONEYSUCKLE
+Lonicera japonica,Jin yin hua,LONICERA JAPONICA,JIN YIN HUA
+Lonicera japonica,Ren dong,LONICERA JAPONICA,REN DONG
+Lonicera japonica,Rendongteng,LONICERA JAPONICA,RENDONGTENG
+Lycium barbarum,Barbary matrimony-vine,LYCIUM BARBARUM,BARBARY MATRIMONYVINE
+Lycium barbarum,Barbary wolfberry,LYCIUM BARBARUM,BARBARY WOLFBERRY
+Lycium barbarum,Chinese wolfberry,LYCIUM BARBARUM,CHINESE WOLFBERRY
+Lycium barbarum,Matrimony-vine,LYCIUM BARBARUM,MATRIMONYVINE
+Lycium barbarum,Ning xia gou qi,LYCIUM BARBARUM,NING XIA GOU QI
+Lycopus americanus,Americanbugleweed,LYCOPUS AMERICANUS,AMERICANBUGLEWEED
+Magnolia grandiflora,Bull bay,MAGNOLIA GRANDIFLORA,BULL BAY
+Magnolia grandiflora,Laurier tulipier,MAGNOLIA GRANDIFLORA,LAURIER TULIPIER
+Magnolia grandiflora,Southern magnolia,MAGNOLIA GRANDIFLORA,SOUTHERN MAGNOLIA
+Magnolia officinalis,Hou po,MAGNOLIA OFFICINALIS,HOU PO
+Magnolia officinalis,Magnolia-bark,MAGNOLIA OFFICINALIS,MAGNOLIABARK
+Magnolia virginiana,Sweetbay,MAGNOLIA VIRGINIANA,SWEETBAY
+Malva sylvestris,Blue mallow,MALVA SYLVESTRIS,BLUE MALLOW
+Malva sylvestris,Cheeses,MALVA SYLVESTRIS,CHEESES
+Malva sylvestris,Common mallow,MALVA SYLVESTRIS,COMMON MALLOW
+Malva sylvestris,High mallow,MALVA SYLVESTRIS,HIGH MALLOW
+Malva sylvestris,Tall mallow,MALVA SYLVESTRIS,TALL MALLOW
+Marrubium vulgare,Horehound,MARRUBIUM VULGARE,HOREHOUND
+Marrubium vulgare,White horehound,MARRUBIUM VULGARE,WHITE HOREHOUND
+Matricaria chamomilla,Blue chamomile,MATRICARIA CHAMOMILLA,BLUE CHAMOMILE
+Matricaria chamomilla,Chamomile,MATRICARIA CHAMOMILLA,CHAMOMILE
+Matricaria chamomilla,Common chamomile,MATRICARIA CHAMOMILLA,COMMON CHAMOMILE
+Matricaria chamomilla,German chamomile,MATRICARIA CHAMOMILLA,GERMAN CHAMOMILE
+Matricaria chamomilla,Hungarian chamomile,MATRICARIA CHAMOMILLA,HUNGARIAN CHAMOMILE
+Hedera helix,Ivy leaf,HEDERA HELIX,IVY LEAF
+Hordeum vulgare,Barley grass,HORDEUM VULGARE,BARLEY GRASS
+Lycium barbarum,Goji berry,LYCIUM BARBARUM,GOJI BERRY
+Matricaria chamomilla,Matricaria,MATRICARIA CHAMOMILLA,MATRICARIA
+Matricaria chamomilla,Scented chamomile,MATRICARIA CHAMOMILLA,SCENTED CHAMOMILE
+Matricaria chamomilla,Scented mayweed,MATRICARIA CHAMOMILLA,SCENTED MAYWEED
+Matricaria chamomilla,Sweet false chamomile,MATRICARIA CHAMOMILLA,SWEET FALSE CHAMOMILE
+Matricaria chamomilla,True chamomile,MATRICARIA CHAMOMILLA,TRUE CHAMOMILE
+Matricaria chamomilla,Wild chamomile,MATRICARIA CHAMOMILLA,WILD CHAMOMILE
+Medicago polymorpha,Bur medic,MEDICAGO POLYMORPHA,BUR MEDIC
+Medicago polymorpha,California bur-clover,MEDICAGO POLYMORPHA,CALIFORNIA BURCLOVER
+Medicago polymorpha,Hairy medic,MEDICAGO POLYMORPHA,HAIRY MEDIC
+Medicago polymorpha,Toothed bur-clover,MEDICAGO POLYMORPHA,TOOTHED BURCLOVER
+Medicago polymorpha,Toothed medic,MEDICAGO POLYMORPHA,TOOTHED MEDIC
+Melia azedarach,Chinaberry,MELIA AZEDARACH,CHINABERRY
+Melia azedarach,Lian,MELIA AZEDARACH,LIAN
+Melia azedarach,Persian lilac,MELIA AZEDARACH,PERSIAN LILAC
+Melia azedarach,Sichuan pagoda-tree,MELIA AZEDARACH,SICHUAN PAGODATREE
+Melia azedarach,Szechwan chinaberry,MELIA AZEDARACH,SZECHWAN CHINABERRY
+Melissa officinalis,Balm,MELISSA OFFICINALIS,BALM
+Melissa officinalis,Bee balm,MELISSA OFFICINALIS,BEE BALM
+Melissa officinalis,Lemon balm,MELISSA OFFICINALIS,LEMON BALM
+Melissa officinalis,Melissa,MELISSA OFFICINALIS,MELISSA
+Mentha pulegium,European pennyroyal,MENTHA PULEGIUM,EUROPEAN PENNYROYAL
+Mentha pulegium,Lurk-in-the-Ditch,MENTHA PULEGIUM,LURKINTHEDITCH
+Mentha pulegium,Mosquito plant,MENTHA PULEGIUM,MOSQUITO PLANT
+Mentha pulegium,Pennyroyal,MENTHA PULEGIUM,PENNYROYAL
+Mentha pulegium,Pudding Grass,MENTHA PULEGIUM,PUDDING GRASS
+Mentha pulegium,Pulegium,MENTHA PULEGIUM,PULEGIUM
+Mentha pulegium,Run-by-the-Ground,MENTHA PULEGIUM,RUNBYTHEGROUND
+Mentha pulegium,Squaw Balm,MENTHA PULEGIUM,SQUAW BALM
+Mentha pulegium,Squawmint Tickweed,MENTHA PULEGIUM,SQUAWMINT TICKWEED
+Mentha spicata,Curled mint,MENTHA SPICATA,CURLED MINT
+Mentha spicata,Spearmint,MENTHA SPICATA,SPEARMINT
+Mimosa pudica,Han xiu cao,MIMOSA PUDICA,HAN XIU CAO
+Mimosa pudica,Sensitive-plant,MIMOSA PUDICA,SENSITIVEPLANT
+Mimosa pudica,Touch-me-not,MIMOSA PUDICA,TOUCHMENOT
+Mitchella repens,Partridge-berry,MITCHELLA REPENS,PARTRIDGEBERRY
+Mitchella repens,Squawvine,MITCHELLA REPENS,SQUAWVINE
+Mitragyna speciosa,Kratom,MITRAGYNA SPECIOSA,KRATOM
+Mitragyna speciosa,Kratum,MITRAGYNA SPECIOSA,KRATUM
+Momordica charantia,Balsam-apple,MOMORDICA CHARANTIA,BALSAMAPPLE
+Momordica charantia,Balsam-pear,MOMORDICA CHARANTIA,BALSAMPEAR
+Momordica charantia,Bitter-cucumber,MOMORDICA CHARANTIA,BITTERCUCUMBER
+Momordica charantia,Bitter gourd,MOMORDICA CHARANTIA,BITTER GOURD
+Momordica charantia,Bitter melon,MOMORDICA CHARANTIA,BITTER MELON
+Momordica charantia,Carilla gourd,MOMORDICA CHARANTIA,CARILLA GOURD
+Morella cerifera,Bayberry,MORELLA CERIFERA,BAYBERRY
+Morella cerifera,Candleberry,MORELLA CERIFERA,CANDLEBERRY
+Morella cerifera,Southern bayberry,MORELLA CERIFERA,SOUTHERN BAYBERRY
+Morella cerifera,Southern wax-myrtle,MORELLA CERIFERA,SOUTHERN WAXMYRTLE
+Morella cerifera,Waxberry,MORELLA CERIFERA,WAXBERRY
+Morella cerifera,Wax-myrtle,MORELLA CERIFERA,WAXMYRTLE
+Morinda citrifolia,Indian-mulberry,MORINDA CITRIFOLIA,INDIANMULBERRY
+Morinda citrifolia,Noni,MORINDA CITRIFOLIA,NONI
+Morinda citrifolia,Rotten cheesefruit,MORINDA CITRIFOLIA,ROTTEN CHEESEFRUIT
+Moringa oleifera,Ben-oil-tree,MORINGA OLEIFERA,BENOILTREE
+Moringa oleifera,Benzolive-tree,MORINGA OLEIFERA,BENZOLIVETREE
+Moringa oleifera,Drumsticktree,MORINGA OLEIFERA,DRUMSTICKTREE
+Moringa oleifera,Horseradish-tree,MORINGA OLEIFERA,HORSERADISHTREE
+Moringa oleifera,Malunggay,MORINGA OLEIFERA,MALUNGGAY
+Moringa oleifera,Moringa,MORINGA OLEIFERA,MORINGA
+Moringa oleifera,West Indian ben,MORINGA OLEIFERA,WEST INDIAN BEN
+Myrtus communis,Myrtle,MYRTUS COMMUNIS,MYRTLE
+Nepeta cataria,Catmint,NEPETA CATARIA,CATMINT
+Nepeta cataria,Catnep,NEPETA CATARIA,CATNEP
+Nepeta cataria,Catnip,NEPETA CATARIA,CATNIP
+Nepeta cataria,Catswort,NEPETA CATARIA,CATSWORT
+Nepeta cataria,Field balm,NEPETA CATARIA,FIELD BALM
+Nerium oleander,Oleander,NERIUM OLEANDER,OLEANDER
+Nerium oleander,Rose laurel,NERIUM OLEANDER,ROSE LAUREL
+Neurolaena lobata,Gavilana,NEUROLAENA LOBATA,GAVILANA
+Neurolaena lobata,Jackass bitters,NEUROLAENA LOBATA,JACKASS BITTERS
+Notopterygium incisum,Notopterygium,NOTOPTERYGIUM INCISUM,NOTOPTERYGIUM
+Notopterygium incisum,Qiang huo,NOTOPTERYGIUM INCISUM,QIANG HUO
+Nymphaea odorata,Sweetwaterlily,NYMPHAEA ODORATA,SWEETWATERLILY
+Ocimum tenuiflorum,Holy basil,OCIMUM TENUIFLORUM,HOLY BASIL
+Ocimum tenuiflorum,Rama tulsi,OCIMUM TENUIFLORUM,RAMA TULSI
+Ocimum tenuiflorum,Sacred basil,OCIMUM TENUIFLORUM,SACRED BASIL
+Ocimum tenuiflorum,Tulsi,OCIMUM TENUIFLORUM,TULSI
+Olea europaea,Olive,OLEA EUROPAEA,OLIVE
+Olea europaea,Olive-leaf,OLEA EUROPAEA,OLIVELEAF
+Olea europaea,Olive tree,OLEA EUROPAEA,OLIVE TREE
+Ononis spinosa,Ononis,ONONIS SPINOSA,ONONIS
+Ononis spinosa,Restharrow,ONONIS SPINOSA,RESTHARROW
+Ononis spinosa,Spiny restharrow,ONONIS SPINOSA,SPINY RESTHARROW
+Ononis spinosa,Spring restharrow,ONONIS SPINOSA,SPRING RESTHARROW
+Oplopanax horridus,Devil's-club,OPLOPANAX HORRIDUS,DEVILSCLUB
+Origanum compactum,Moroccanoregano,ORIGANUM COMPACTUM,MOROCCANOREGANO
+Origanum majorana,Marjoram,ORIGANUM MAJORANA,MARJORAM
+Origanum majorana,Sweet marjoram,ORIGANUM MAJORANA,SWEET MARJORAM
+Origanum syriacum,Biblical hyssop,ORIGANUM SYRIACUM,BIBLICAL HYSSOP
+Origanum syriacum,Lebanese oregano,ORIGANUM SYRIACUM,LEBANESE OREGANO
+Origanum syriacum,Syrian oregano,ORIGANUM SYRIACUM,SYRIAN OREGANO
+Origanum vulgare,Common Oregano,ORIGANUM VULGARE,COMMON OREGANO
+Origanum vulgare,Oregano,ORIGANUM VULGARE,OREGANO
+Panax ginseng,Asian ginseng,PANAX GINSENG,ASIAN GINSENG
+Panax ginseng,Chinese ginseng,PANAX GINSENG,CHINESE GINSENG
+Panax ginseng,Hong shen,PANAX GINSENG,HONG SHEN
+Panax ginseng,Korean ginseng,PANAX GINSENG,KOREAN GINSENG
+Panax ginseng,Korean red ginseng,PANAX GINSENG,KOREAN RED GINSENG
+Panax ginseng,Oriental ginseng,PANAX GINSENG,ORIENTAL GINSENG
+Panax ginseng,Panax ginseng,PANAX GINSENG,PANAX GINSENG
+Panax ginseng,Red ginseng,PANAX GINSENG,RED GINSENG
+Panax ginseng,Ren shen,PANAX GINSENG,REN SHEN
+Papaver rhoeas,Corn poppy,PAPAVER RHOEAS,CORN POPPY
+Papaver rhoeas,Field poppy,PAPAVER RHOEAS,FIELD POPPY
+Papaver rhoeas,Flanders poppy,PAPAVER RHOEAS,FLANDERS POPPY
+Papaver rhoeas,Shirley poppy,PAPAVER RHOEAS,SHIRLEY POPPY
+Parietaria judaica,Pellitory-of-the-wall,PARIETARIA JUDAICA,PELLITORYOFTHEWALL
+Parietaria judaica,Spreading pellitory,PARIETARIA JUDAICA,SPREADING PELLITORY
+Passiflora edulis,Purplegranadilla,PASSIFLORA EDULIS,PURPLEGRANADILLA
+Paullinia cupana,Guarana,PAULLINIA CUPANA,GUARANA
+Pausinystalia johimbe,Yohimbe,PAUSINYSTALIA JOHIMBE,YOHIMBE
+Petroselinum crispum,Parsley,PETROSELINUM CRISPUM,PARSLEY
+Peumus boldus,Boldo,PEUMUS BOLDUS,BOLDO
+Peumus boldus,Boldo tree,PEUMUS BOLDUS,BOLDO TREE
+Peumus boldus,Boldu,PEUMUS BOLDUS,BOLDU
+Phyllanthus amarus,Phyllanthusamarus,PHYLLANTHUS AMARUS,PHYLLANTHUSAMARUS
+Phytolacca americana,Chui xu shang lu,PHYTOLACCA AMERICANA,CHUI XU SHANG LU
+Phytolacca americana,Pigeonberry,PHYTOLACCA AMERICANA,PIGEONBERRY
+Phytolacca americana,Poke,PHYTOLACCA AMERICANA,POKE
+Phytolacca americana,Pokeberry,PHYTOLACCA AMERICANA,POKEBERRY
+Phytolacca americana,Pokeroot,PHYTOLACCA AMERICANA,POKEROOT
+Phytolacca americana,Pokeweed,PHYTOLACCA AMERICANA,POKEWEED
+Phytolacca americana,Virginia poke,PHYTOLACCA AMERICANA,VIRGINIA POKE
+Pinus mugo,Dwarf pine,PINUS MUGO,DWARF PINE
+Pinus mugo,Mountain pine,PINUS MUGO,MOUNTAIN PINE
+Pinus mugo,Mountain pine- Swiss,PINUS MUGO,MOUNTAIN PINE SWISS
+Pinus mugo,Mugo pine,PINUS MUGO,MUGO PINE
+Pinus mugo,Pine- pumilio,PINUS MUGO,PINE PUMILIO
+Pinus mugo,Pine- Swiss mountain,PINUS MUGO,PINE SWISS MOUNTAIN
+Pinus mugo,Pumilio pine,PINUS MUGO,PUMILIO PINE
+Pinus mugo,Scrub mountain pine,PINUS MUGO,SCRUB MOUNTAIN PINE
+Pinus mugo,Swiss mountain pine,PINUS MUGO,SWISS MOUNTAIN PINE
+Pinus nigra,Baltic redwood,PINUS NIGRA,BALTIC REDWOOD
+Pinus nigra,Scotch pine,PINUS NIGRA,SCOTCH PINE
+Pinus nigra,Scots pine,PINUS NIGRA,SCOTS PINE
+Pinus palustris,Longleaf pine,PINUS PALUSTRIS,LONGLEAF PINE
+Pinus palustris,Pitch pine,PINUS PALUSTRIS,PITCH PINE
+Pinus sylvestris,Baltic redwood,PINUS SYLVESTRIS,BALTIC REDWOOD
+Pinus sylvestris,Scotch pine,PINUS SYLVESTRIS,SCOTCH PINE
+Pinus sylvestris,Scots pine,PINUS SYLVESTRIS,SCOTS PINE
+Piper methysticum,Kava,PIPER METHYSTICUM,KAVA
+Piper methysticum,Kava-kava,PIPER METHYSTICUM,KAVAKAVA
+Piper methysticum,Kava pepper,PIPER METHYSTICUM,KAVA PEPPER
+Piper methysticum,Kawa pepper,PIPER METHYSTICUM,KAWA PEPPER
+Piper methysticum,Yanggona,PIPER METHYSTICUM,YANGGONA
+Piper nigrum,Black pepper,PIPER NIGRUM,BLACK PEPPER
+Piper nigrum,Pepper- black,PIPER NIGRUM,PEPPER BLACK
+Piper nigrum,Pepper- white,PIPER NIGRUM,PEPPER WHITE
+Piper nigrum,White pepper,PIPER NIGRUM,WHITE PEPPER
+Piptoporus betulinus,Piptoporusbetulinus,PIPTOPORUS BETULINUS,PIPTOPORUSBETULINUS
+Pistacia lentiscus,Chios mastictree,PISTACIA LENTISCUS,CHIOS MASTICTREE
+Pistacia lentiscus,Lentiscus,PISTACIA LENTISCUS,LENTISCUS
+Plantago major,Broadleaf plantain,PLANTAGO MAJOR,BROADLEAF PLANTAIN
+Plantago major,Common plantain,PLANTAGO MAJOR,COMMON PLANTAIN
+Plantago major,Greater plantain,PLANTAGO MAJOR,GREATER PLANTAIN
+Plantago major,Plantain,PLANTAGO MAJOR,PLANTAIN
+Platanus occidentalis,AmericanSycamore,PLATANUS OCCIDENTALIS,AMERICANSYCAMORE
+Pogostemon cablin,Cablin patchouli,POGOSTEMON CABLIN,CABLIN PATCHOULI
+Pogostemon cablin,Guang huo xiang,POGOSTEMON CABLIN,GUANG HUO XIANG
+Pogostemon cablin,Patchouli-plant,POGOSTEMON CABLIN,PATCHOULIPLANT
+Pogostemon cablin,Patchouly,POGOSTEMON CABLIN,PATCHOULY
+Posidonia oceanica,Mediterraneantapeweed,POSIDONIA OCEANICA,MEDITERRANEANTAPEWEED
+Prunella vulgaris,Common selfheal,PRUNELLA VULGARIS,COMMON SELFHEAL
+Prunella vulgaris,Heal-all,PRUNELLA VULGARIS,HEALALL
+Prunella vulgaris,Prunella,PRUNELLA VULGARIS,PRUNELLA
+Prunella vulgaris,Self-heal,PRUNELLA VULGARIS,SELFHEAL
+Prunella vulgaris,Woundwort,PRUNELLA VULGARIS,WOUNDWORT
+Prunella vulgaris,Xiakucao,PRUNELLA VULGARIS,XIAKUCAO
+Prunus armeniaca,Apricot,PRUNUS ARMENIACA,APRICOT
+Prunus armeniaca,Siberian apricot,PRUNUS ARMENIACA,SIBERIAN APRICOT
+Prunus armeniaca,Xing,PRUNUS ARMENIACA,XING
+Prunus persica,Momo,PRUNUS PERSICA,MOMO
+Prunus persica,Peach,PRUNUS PERSICA,PEACH
+Prunus persica,Tao,PRUNUS PERSICA,TAO
+Prunus serotina,Black cherry,PRUNUS SEROTINA,BLACK CHERRY
+Prunus serotina,Rum cherry,PRUNUS SEROTINA,RUM CHERRY
+Prunus serotina,Wild cherry,PRUNUS SEROTINA,WILD CHERRY
+Prunus spinosa,Blackthorn,PRUNUS SPINOSA,BLACKTHORN
+Prunus spinosa,Endrino,PRUNUS SPINOSA,ENDRINO
+Pseudognaphalium obtusifolium,Blunt-leaved everlasting,PSEUDOGNAPHALIUM OBTUSIFOLIUM,BLUNTLEAVED EVERLASTING
+Pseudognaphalium obtusifolium,Fragrant everlasting,PSEUDOGNAPHALIUM OBTUSIFOLIUM,FRAGRANT EVERLASTING
+Pseudotsuga menziesii,Douglas-fir,PSEUDOTSUGA MENZIESII,DOUGLASFIR
+Ptelea trifoliata,Hoptree,PTELEA TRIFOLIATA,HOPTREE
+Ptelea trifoliata,Shrub-trefoil,PTELEA TRIFOLIATA,SHRUBTREFOIL
+Quassia amara,Quassia,QUASSIA AMARA,QUASSIA
+Quassia amara,Quassia wood,QUASSIA AMARA,QUASSIA WOOD
+Quercus alba,Stave oak,QUERCUS ALBA,STAVE OAK
+Quercus alba,White oak,QUERCUS ALBA,WHITE OAK
+Quercus incana,Bluejackoak,QUERCUS INCANA,BLUEJACKOAK
+Raphanus raphanistrum,Jointed charlock,RAPHANUS RAPHANISTRUM,JOINTED CHARLOCK
+Raphanus raphanistrum,Wild radish,RAPHANUS RAPHANISTRUM,WILD RADISH
+Reynoutria multiflora,Fleeceflower,REYNOUTRIA MULTIFLORA,FLEECEFLOWER
+Reynoutria multiflora,Fo-ti,REYNOUTRIA MULTIFLORA,FOTI
+Reynoutria multiflora,He shou wu,REYNOUTRIA MULTIFLORA,HE SHOU WU
+Rheum,Himalayan rhubarb,RHEUM,HIMALAYAN RHUBARB
+Rheum,Himalaya-Rhabarber,RHEUM,HIMALAYARHABARBER
+Rheum,Indian rhubarb,RHEUM,INDIAN RHUBARB
+Rheum,zang bian da huang,RHEUM,ZANG BIAN DA HUANG
+Rheum australe,Himalayan rhubarb,RHEUM AUSTRALE,HIMALAYAN RHUBARB
+Rheum australe,Himalaya-Rhabarber,RHEUM AUSTRALE,HIMALAYARHABARBER
+Rheum australe,Indian rhubarb,RHEUM AUSTRALE,INDIAN RHUBARB
+Rheum australe,zang bian da huang,RHEUM AUSTRALE,ZANG BIAN DA HUANG
+Rheum palmatum,Chinese Rhubarb,RHEUM PALMATUM,CHINESE RHUBARB
+Rheum palmatum,Ornamental rhubarb,RHEUM PALMATUM,ORNAMENTAL RHUBARB
+Rheum palmatum,Rhubarb,RHEUM PALMATUM,RHUBARB
+Rheum palmatum,Zhang ye da huang,RHEUM PALMATUM,ZHANG YE DA HUANG
+Rhodiola rosea,Hong jing tian,RHODIOLA ROSEA,HONG JING TIAN
+Rhodiola rosea,King's-crown,RHODIOLA ROSEA,KINGSCROWN
+Rhodiola rosea,Rhodiola,RHODIOLA ROSEA,RHODIOLA
+Rhodiola rosea,Roseroot,RHODIOLA ROSEA,ROSEROOT
+Rhus coriaria,Sicilian sumac,RHUS CORIARIA,SICILIAN SUMAC
+Rhus coriaria,Tanner's sumac,RHUS CORIARIA,TANNERS SUMAC
+Robinia pseudoacacia,Black locust,ROBINIA PSEUDOACACIA,BLACK LOCUST
+Robinia pseudoacacia,Falsa acacia,ROBINIA PSEUDOACACIA,FALSA ACACIA
+Rosa canina,Common briar,ROSA CANINA,COMMON BRIAR
+Rosa canina,Dogbrier,ROSA CANINA,DOGBRIER
+Rosa canina,Dog rose,ROSA CANINA,DOG ROSE
+Rosmarinus officinalis,Rosemary,ROSMARINUS OFFICINALIS,ROSEMARY
+Rubus ursinus,Boysenberry,RUBUS URSINUS,BOYSENBERRY
+Rumex crispus,Curly dock,RUMEX CRISPUS,CURLY DOCK
+Rumex crispus,Sour dock,RUMEX CRISPUS,SOUR DOCK
+Rumex crispus,Yellow dock,RUMEX CRISPUS,YELLOW DOCK
+Ruscus aculeatus,Box-holly,RUSCUS ACULEATUS,BOXHOLLY
+Ruscus aculeatus,Butcher's-broom,RUSCUS ACULEATUS,BUTCHERSBROOM
+Ruta chalepensis,Fringedrue,RUTA CHALEPENSIS,FRINGEDRUE
+Ruta graveolens,Rue,RUTA GRAVEOLENS,RUE
+Salvia officinalis,Common sage,SALVIA OFFICINALIS,COMMON SAGE
+Salvia officinalis,Dalmatian sage,SALVIA OFFICINALIS,DALMATIAN SAGE
+Salvia officinalis,Garden sage,SALVIA OFFICINALIS,GARDEN SAGE
+Salvia officinalis,Sage,SALVIA OFFICINALIS,SAGE
+Salvia pratensis,Meadow clary,SALVIA PRATENSIS,MEADOW CLARY
+Salvia pratensis,Meadow sage,SALVIA PRATENSIS,MEADOW SAGE
+Salvia sclarea,Clary,SALVIA SCLAREA,CLARY
+Salvia sclarea,Clary sage,SALVIA SCLAREA,CLARY SAGE
+Sambucus canadensis,American elder,SAMBUCUS CANADENSIS,AMERICAN ELDER
+Sambucus canadensis,Canadian elder,SAMBUCUS CANADENSIS,CANADIAN ELDER
+Sambucus canadensis,Sweet Elder,SAMBUCUS CANADENSIS,SWEET ELDER
+Sambucus nigra,American elder,SAMBUCUS NIGRA,AMERICAN ELDER
+Sambucus nigra,Canadian elder,SAMBUCUS NIGRA,CANADIAN ELDER
+Sambucus nigra,Sweet Elder,SAMBUCUS NIGRA,SWEET ELDER
+Sanguinaria canadensis,Bloodroot,SANGUINARIA CANADENSIS,BLOODROOT
+Sanguinaria canadensis,Bloodwort,SANGUINARIA CANADENSIS,BLOODWORT
+Sanguinaria canadensis,Canadian bloodroot,SANGUINARIA CANADENSIS,CANADIAN BLOODROOT
+Sanguinaria canadensis,Red puccoon,SANGUINARIA CANADENSIS,RED PUCCOON
+Sanguinaria canadensis,Redroot,SANGUINARIA CANADENSIS,REDROOT
+Sanguinaria canadensis,Tetterwort,SANGUINARIA CANADENSIS,TETTERWORT
+Saponaria officinalis,Bouncing-bet,SAPONARIA OFFICINALIS,BOUNCINGBET
+Saponaria officinalis,Soapwort,SAPONARIA OFFICINALIS,SOAPWORT
+Saposhnikovia divaricata,Fang feng,SAPOSHNIKOVIA DIVARICATA,FANG FENG
+Saposhnikovia divaricata,Siler,SAPOSHNIKOVIA DIVARICATA,SILER
+Sargassum pallidum,Sargassumpallidum,SARGASSUM PALLIDUM,SARGASSUMPALLIDUM
+Sassafras albidum,Common sassafras,SASSAFRAS ALBIDUM,COMMON SASSAFRAS
+Sassafras albidum,Sassafras,SASSAFRAS ALBIDUM,SASSAFRAS
+Sassafras albidum,White sassafras,SASSAFRAS ALBIDUM,WHITE SASSAFRAS
+Satureja montana,Savory,SATUREJA MONTANA,SAVORY
+Satureja montana,Winter savory,SATUREJA MONTANA,WINTER SAVORY
+Schisandra chinensis,Chinese Magnoliavine,SCHISANDRA CHINENSIS,CHINESE MAGNOLIAVINE
+Schisandra chinensis,Schisandra,SCHISANDRA CHINENSIS,SCHISANDRA
+Schisandra chinensis,Wu wei zi,SCHISANDRA CHINENSIS,WU WEI ZI
+Scutellaria lateriflora,Helmet flower,SCUTELLARIA LATERIFLORA,HELMET FLOWER
+Scutellaria lateriflora,Hoodwort,SCUTELLARIA LATERIFLORA,HOODWORT
+Scutellaria lateriflora,Mad-dog scullcap,SCUTELLARIA LATERIFLORA,MADDOG SCULLCAP
+Scutellaria lateriflora,Quarter bonnet,SCUTELLARIA LATERIFLORA,QUARTER BONNET
+Scutellaria lateriflora,Scullcap,SCUTELLARIA LATERIFLORA,SCULLCAP
+Scutellaria lateriflora,Skullcap,SCUTELLARIA LATERIFLORA,SKULLCAP
+Scutellaria lateriflora,Virginian skullcap,SCUTELLARIA LATERIFLORA,VIRGINIAN SKULLCAP
+Senna obtusifolia,Java-bean,SENNA OBTUSIFOLIA,JAVABEAN
+Senna obtusifolia,Sicklepod,SENNA OBTUSIFOLIA,SICKLEPOD
+Senna obtusifolia,Sicklepod senna,SENNA OBTUSIFOLIA,SICKLEPOD SENNA
+Senna occidentalis,Antbush,SENNA OCCIDENTALIS,ANTBUSH
+Senna occidentalis,Coffee senna,SENNA OCCIDENTALIS,COFFEE SENNA
+Senna occidentalis,Negro-coffee,SENNA OCCIDENTALIS,NEGROCOFFEE
+Senna occidentalis,Stinkingweed,SENNA OCCIDENTALIS,STINKINGWEED
+Serenoa repens,Sabal,SERENOA REPENS,SABAL
+Serenoa repens,Saw palmetto,SERENOA REPENS,SAW PALMETTO
+Serenoa repens,Saw-palmetto,SERENOA REPENS,SAWPALMETTO
+Serenoa repens,Scrub-palmetto,SERENOA REPENS,SCRUBPALMETTO
+Silybum marianum,Blessed milk thistle,SILYBUM MARIANUM,BLESSED MILK THISTLE
+Silybum marianum,Gundagai thistle,SILYBUM MARIANUM,GUNDAGAI THISTLE
+Silybum marianum,Holy thistle,SILYBUM MARIANUM,HOLY THISTLE
+Silybum marianum,Lady's thistle,SILYBUM MARIANUM,LADYS THISTLE
+Silybum marianum,Mary's thistle,SILYBUM MARIANUM,MARYS THISTLE
+Silybum marianum,Mary thistle,SILYBUM MARIANUM,MARY THISTLE
+Silybum marianum,Milk thistle,SILYBUM MARIANUM,MILK THISTLE
+Silybum marianum,St. Mary's thistle,SILYBUM MARIANUM,ST MARYS THISTLE
+Silybum marianum,Variegated thistle,SILYBUM MARIANUM,VARIEGATED THISTLE
+Sisymbrium officinale,Hedgemustard,SISYMBRIUM OFFICINALE,HEDGEMUSTARD
+Solanum anguivi,PoisonBerry,SOLANUM ANGUIVI,POISONBERRY
+Solidago canadensis,CanadianGoldenrod,SOLIDAGO CANADENSIS,CANADIANGOLDENROD
+Solidago odora,Anise-scent goldenrod,SOLIDAGO ODORA,ANISESCENT GOLDENROD
+Solidago odora,Fragrant goldenrod,SOLIDAGO ODORA,FRAGRANT GOLDENROD
+Stachys officinalis,Bishop's-wort,STACHYS OFFICINALIS,BISHOPSWORT
+Stachys officinalis,Purple betony,STACHYS OFFICINALIS,PURPLE BETONY
+Stachys officinalis,Wood betony,STACHYS OFFICINALIS,WOOD BETONY
+Stillingia sylvatica,Queen's-delight,STILLINGIA SYLVATICA,QUEENSDELIGHT
+Stillingia sylvatica,Queen's-root,STILLINGIA SYLVATICA,QUEENSROOT
+Stillingia sylvatica,Stillingia,STILLINGIA SYLVATICA,STILLINGIA
+Stillingia sylvatica,Yawroot,STILLINGIA SYLVATICA,YAWROOT
+Swertia chirata,Chirata,SWERTIA CHIRATA,CHIRATA
+Swertia chirata,Chiretta,SWERTIA CHIRATA,CHIRETTA
+Swertia chirata,Kiratatikta,SWERTIA CHIRATA,KIRATATIKTA
+Symphytum officinale,Boneset,SYMPHYTUM OFFICINALE,BONESET
+Symphytum officinale,Comfrey,SYMPHYTUM OFFICINALE,COMFREY
+Symphytum officinale,Common comfrey,SYMPHYTUM OFFICINALE,COMMON COMFREY
+Symphytum officinale,Consound,SYMPHYTUM OFFICINALE,CONSOUND
+Symphytum officinale,Healing-herb,SYMPHYTUM OFFICINALE,HEALINGHERB
+Symphytum officinale,Knitbone,SYMPHYTUM OFFICINALE,KNITBONE
+Symphytum officinale,Slippery-root,SYMPHYTUM OFFICINALE,SLIPPERYROOT
+Tamarindus indica,Indian tamarind,TAMARINDUS INDICA,INDIAN TAMARIND
+Tamarindus indica,Kilytree,TAMARINDUS INDICA,KILYTREE
+Tamarindus indica,Tamarin,TAMARINDUS INDICA,TAMARIN
+Tamarindus indica,Tamarind,TAMARINDUS INDICA,TAMARIND
+Tanacetum parthenium,Feverfew,TANACETUM PARTHENIUM,FEVERFEW
+Tanacetum vulgare,Golden-buttons,TANACETUM VULGARE,GOLDENBUTTONS
+Tanacetum vulgare,Tansy,TANACETUM VULGARE,TANSY
+Taraxacum officinale,Common dandelion,TARAXACUM OFFICINALE,COMMON DANDELION
+Taraxacum officinale,Dandelion,TARAXACUM OFFICINALE,DANDELION
+Taraxacum officinale,Lion's-tooth,TARAXACUM OFFICINALE,LIONSTOOTH
+Thymus vulgaris,Common thyme,THYMUS VULGARIS,COMMON THYME
+Thymus vulgaris,Conehead thyme,THYMUS VULGARIS,CONEHEAD THYME
+Thymus vulgaris,English thyme,THYMUS VULGARIS,ENGLISH THYME
+Thymus vulgaris,French thyme,THYMUS VULGARIS,FRENCH THYME
+Thymus vulgaris,Garden thyme,THYMUS VULGARIS,GARDEN THYME
+Thymus vulgaris,Thyme,THYMUS VULGARIS,THYME
+Tillandsia usneoides,Spanishmoss,TILLANDSIA USNEOIDES,SPANISHMOSS
+Trametes versicolor,Kawaratake,TRAMETES VERSICOLOR,KAWARATAKE
+Trametes versicolor,Turkey Tail,TRAMETES VERSICOLOR,TURKEY TAIL
+Trametes versicolor,Yunzhi,TRAMETES VERSICOLOR,YUNZHI
+Tribulus terrestris,Caltrop,TRIBULUS TERRESTRIS,CALTROP
+Tribulus terrestris,Cat's-head,TRIBULUS TERRESTRIS,CATSHEAD
+Tribulus terrestris,Common dubbletjie,TRIBULUS TERRESTRIS,COMMON DUBBLETJIE
+Tribulus terrestris,Devil's-thorn,TRIBULUS TERRESTRIS,DEVILSTHORN
+Tribulus terrestris,Devil's-weed,TRIBULUS TERRESTRIS,DEVILSWEED
+Tribulus terrestris,Goathead,TRIBULUS TERRESTRIS,GOATHEAD
+Tribulus terrestris,Gokshura,TRIBULUS TERRESTRIS,GOKSHURA
+Tribulus terrestris,Goksura,TRIBULUS TERRESTRIS,GOKSURA
+Tribulus terrestris,Ji li,TRIBULUS TERRESTRIS,JI LI
+Tribulus terrestris,Puncturevine,TRIBULUS TERRESTRIS,PUNCTUREVINE
+Tribulus terrestris,Puncturevine caltrop,TRIBULUS TERRESTRIS,PUNCTUREVINE CALTROP
+Tribulus terrestris,Tribulus,TRIBULUS TERRESTRIS,TRIBULUS
+Trigonella foenum,Common fenugreek,TRIGONELLA FOENUM,COMMON FENUGREEK
+Trigonella foenum,Fenugreek,TRIGONELLA FOENUM,FENUGREEK
+Trigonella foenum,Greek-clover,TRIGONELLA FOENUM,GREEKCLOVER
+Trigonella foenum,Greek hay,TRIGONELLA FOENUM,GREEK HAY
+Trigonella foenum,Hu lu ba,TRIGONELLA FOENUM,HU LU BA
+Triticum aestivum,Bread wheat,TRITICUM AESTIVUM,BREAD WHEAT
+Triticum aestivum,Wheat,TRITICUM AESTIVUM,WHEAT
+Triticum aestivum,Xiao mai,TRITICUM AESTIVUM,XIAO MAI
+Turnera diffusa,Damiana,TURNERA DIFFUSA,DAMIANA
+Tussilago farfara,Coltsfoot,TUSSILAGO FARFARA,COLTSFOOT
+Tussilago farfara,Common coltsfoot,TUSSILAGO FARFARA,COMMON COLTSFOOT
+Tussilago farfara,Kuan dong,TUSSILAGO FARFARA,KUAN DONG
+Tussilago farfara,Kuandonghua,TUSSILAGO FARFARA,KUANDONGHUA
+Ulmus minor,Europeanfieldelm,ULMUS MINOR,EUROPEANFIELDELM
+Ulmus rubra,Red elm,ULMUS RUBRA,RED ELM
+Ulmus rubra,Slippery elm,ULMUS RUBRA,SLIPPERY ELM
+Uncaria tomentosa,Cat's-claw,UNCARIA TOMENTOSA,CATSCLAW
+Urena lobata,Di Tao Hua,URENA LOBATA,DI TAO HUA
+Urena lobata,Xiao Fan Tian Hua,URENA LOBATA,XIAO FAN TIAN HUA
+Urtica dioica,Common nettle,URTICA DIOICA,COMMON NETTLE
+Urtica dioica,European nettle,URTICA DIOICA,EUROPEAN NETTLE
+Urtica dioica,Greater nettle,URTICA DIOICA,GREATER NETTLE
+Urtica dioica,Nettle,URTICA DIOICA,NETTLE
+Urtica dioica,Stinging nettle,URTICA DIOICA,STINGING NETTLE
+Urtica dioica,Yi zhu qian ma,URTICA DIOICA,YI ZHU QIAN MA
+Vaccinium myrsinites,Shinyblueberry,VACCINIUM MYRSINITES,SHINYBLUEBERRY
+Valeriana officinalis,Common valerian,VALERIANA OFFICINALIS,COMMON VALERIAN
+Valeriana officinalis,Garden-heliotrope,VALERIANA OFFICINALIS,GARDENHELIOTROPE
+Valeriana officinalis,Garden valerian,VALERIANA OFFICINALIS,GARDEN VALERIAN
+Valeriana officinalis,Valerian,VALERIANA OFFICINALIS,VALERIAN
+Verbascum thapsus,Aaron's-rod,VERBASCUM THAPSUS,AARONSROD
+Verbascum thapsus,Common mullein,VERBASCUM THAPSUS,COMMON MULLEIN
+Verbascum thapsus,Flannelleaf,VERBASCUM THAPSUS,FLANNELLEAF
+Verbascum thapsus,Flannelplant,VERBASCUM THAPSUS,FLANNELPLANT
+Verbascum thapsus,Great mullein,VERBASCUM THAPSUS,GREAT MULLEIN
+Verbascum thapsus,Hag taper,VERBASCUM THAPSUS,HAG TAPER
+Verbascum thapsus,Mullein,VERBASCUM THAPSUS,MULLEIN
+Verbascum thapsus,Torches,VERBASCUM THAPSUS,TORCHES
+Verbascum thapsus,Velvet-dock,VERBASCUM THAPSUS,VELVETDOCK
+Viburnum opulus,Crampbark,VIBURNUM OPULUS,CRAMPBARK
+Viburnum opulus,Guelder rose,VIBURNUM OPULUS,GUELDER ROSE
+Vicia faba,Favabean,VICIA FABA,FAVABEAN
+Vitex agnus,Chasteberry,VITEX AGNUS,CHASTEBERRY
+Vitex agnus,Chastetree,VITEX AGNUS,CHASTETREE
+Vitex agnus,Vitex,VITEX AGNUS,VITEX
+Vitis rotundifolia,Fox grape,VITIS ROTUNDIFOLIA,FOX GRAPE
+Vitis rotundifolia,Muscadine,VITIS ROTUNDIFOLIA,MUSCADINE
+Vitis rotundifolia,Muscadine grape,VITIS ROTUNDIFOLIA,MUSCADINE GRAPE
+Vitis vinifera,Common grapevine,VITIS VINIFERA,COMMON GRAPEVINE
+Vitis vinifera,European grape,VITIS VINIFERA,EUROPEAN GRAPE
+Vitis vinifera,Grape,VITIS VINIFERA,GRAPE
+Vitis vinifera,Grapevine,VITIS VINIFERA,GRAPEVINE
+Yucca filamentosa,Adam's-needle,YUCCA FILAMENTOSA,ADAMSNEEDLE
+Yucca filamentosa,Bear-grass,YUCCA FILAMENTOSA,BEARGRASS
+Yucca filamentosa,Needle-palm,YUCCA FILAMENTOSA,NEEDLEPALM
+Yucca filamentosa,Spoon-leaf yucca,YUCCA FILAMENTOSA,SPOONLEAF YUCCA
+Yucca filamentosa,Yucca,YUCCA FILAMENTOSA,YUCCA
+Zanthoxylum clava,Hercules'-club,ZANTHOXYLUM CLAVA,HERCULESCLUB
+Zanthoxylum clava,Pepperbark,ZANTHOXYLUM CLAVA,PEPPERBARK
+Zanthoxylum clava,Southern prickly-ash,ZANTHOXYLUM CLAVA,SOUTHERN PRICKLYASH
+Zanthoxylum clava,West Indian yellowwood,ZANTHOXYLUM CLAVA,WEST INDIAN YELLOWWOOD
+Zingiber officinale,Ginger,ZINGIBER OFFICINALE,GINGER
+Zingiber officinale,Jiang,ZINGIBER OFFICINALE,JIANG
+Cannabis sativa,Cannibidiol,CANNABIS SATIVA,CANNIBIDIOL
+Cannabis sativa,CBD,CANNABIS SATIVA,CBD
+Cannabis sativa,Marijuana,CANNABIS SATIVA,MARIJUANA
+Malus domestica,Apple cider vinegar,MALUS DOMESTICA,APPLE CIDER VINEGAR
+Malus pumila,Apple cider vinegar,MALUS PUMILA,APPLE CIDER VINEGAR
+Boswellia serrata,Boswellia,BOSWELLIA SERRATA,BOSWELLIA
+Chlorella vulgaris,Chlorella,CHLORELLA VULGARIS,CHLORELLA
+Vaccinium macrocarpon,Cranberry,VACCINIUM MACROCARPON,CRANBERRY
+Oenothera biennis,Evening primrose oil,OENOTHERA BIENNIS,EVENING PRIMROSE OIL
+Allium sativum,Garlic,ALLIUM SATIVUM,GARLIC
+Citrus paradisi,Grapefruit,CITRUS PARADISI,GRAPEFRUIT
+Nigella sativa,Black cumin,NIGELLA SATIVA,BLACK CUMIN
+Oryza sativa,Red yeast rice,ORYZA SATIVA,RED YEAST RICE
+Senna alexandrina,Senna,SENNA ALEXANDRINA,SENNA
+Stevia rebaudiana,Stevia,STEVIA REBAUDIANA,STEVIA
+Withania somnifera,Ashwaganda,WITHANIA SOMNIFERA,ASHWAGANDA
+Withania somnifera,Asgandh,WITHANIA SOMNIFERA,ASGANDH
+Withania somnifera,Ashwagandha,WITHANIA SOMNIFERA,ASHWAGANDHA
+Withania somnifera,Asvagandha,WITHANIA SOMNIFERA,ASVAGANDHA
+Withania somnifera,Indian ginseng,WITHANIA SOMNIFERA,INDIAN GINSENG
+Withania somnifera,Winter-cherry,WITHANIA SOMNIFERA,WINTERCHERRY
+Linum usitatissimum,Flaxseed,LINUM USITATISSIMUM,FLAXSEED
+Linum usitatissimum,Flax seed,LINUM USITATISSIMUM,FLAX SEED
+Linum usitatissimum,Flax,LINUM USITATISSIMUM,FLAX
+Linum usitatissimum,Linseed,LINUM USITATISSIMUM,LINSEED
+Cannabis sativa,Hemp extract,CANNABIS SATIVA,HEMP EXTRACT
+Beta vulgaris,Beet root,BETA VULGARIS,BEET ROOT
+Epimedium grandif,Horny goat weed,EPIMEDIUM GRANDIF,HORNY GOAT WEED
+Epimedium grandiflorum,Horny goat weed,EPIMEDIUM GRANDIFLORUM,HORNY GOAT WEED
+Triticum aestivum,Wheat grass,TRITICUM AESTIVUM,WHEAT GRASS
+Ophiocordyceps sinensis,Cordyceps,OPHIOCORDYCEPS SINENSIS,CORDYCEPS
+Cinnamomum cassia,Cinnamon,CINNAMOMUM CASSIA,CINNAMON
+Glycyrrhiza uralensis,Licorice,GLYCYRRHIZA URALENSIS,LICORICE
+Glycyrrhiza inflata,Licorice,GLYCYRRHIZA INFLATA,LICORICE

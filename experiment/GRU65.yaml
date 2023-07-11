@@ -1,0 +1,16 @@
+# Parameters optimized for 
+# 65 Characters maximum 
+---
+# Maximum sequence length including padding
+MAXLEN: 65
+Model_Name: BEST_GRU65
+Model_Type: gru
+Learning_Rate: 0.001
+Embedding_Dimensions: 10
+Number_RNN_Nodes: 100 
+Number_Dense_Nodes: 100
+Number_Layers: 1
+Activation_Function: tanh
+Margin: 1.0
+Optimizer: Adam
+Output_Activation: hard_sigmoid
