@@ -1,6 +1,8 @@
 <div align="center">
-  ![Graphical Abstract](/graphical_abstract.png "Graphical Abstract")
+  <img width="600" src="/graphical_abstract.png" alt="Graphical Abstract">
 </div>
+
+
 
 # np_name_finder
 
